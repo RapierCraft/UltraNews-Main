@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "414650446310",
+    "project_id": "ultranews-3a7d6",
+    "storage_bucket": "ultranews-3a7d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414650446310:android:456dab4a25cf6487d82627",
+        "android_client_info": {
+          "package_name": "com.rapiercraft.UltraNews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414650446310-9tr5fusvrt2tih6f1cn9crq2d6oiiooq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rapiercraft.UltraNews",
+            "certificate_hash": "ce441c24955577e927c06dd52941ed52022fd059"
+          }
+        },
+        {
+          "client_id": "414650446310-enbu8hosch8qc3i4n7smq94kj7feeedr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rapiercraft.UltraNews",
+            "certificate_hash": "700d06225b8d5ccd7a416918ecec87a012b9e26c"
+          }
+        },
+        {
+          "client_id": "414650446310-ned235qqfnnt74gbcfm47sfhtet4g4ba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rapiercraft.UltraNews",
+            "certificate_hash": "c6c131bbb3e69fd8b929b49a4db2611dc828c746"
+          }
+        },
+        {
+          "client_id": "414650446310-oab1dvj7d3qobss707qim5nk5f5u6jjh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApYOwPyx4F3v3ENUFMBR5ddWZ_Jlt_Xas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414650446310-1idkkolv0f1mnd583gn0os6ne6sek77n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "414650446310-6crr8ufp4tepivq6geo56ovce2vuu3cl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rapiercraft.UltraNews"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
